@@ -1,0 +1,11 @@
+C:\Users\victo\onedrive\documents\visual studio 2015\Projects\Project2\Project2\bin\Debug\Project2.exe.config
+C:\Users\victo\onedrive\documents\visual studio 2015\Projects\Project2\Project2\bin\Debug\Project2.exe
+C:\Users\victo\onedrive\documents\visual studio 2015\Projects\Project2\Project2\bin\Debug\Project2.pdb
+C:\Users\victo\onedrive\documents\visual studio 2015\Projects\Project2\Project2\bin\Debug\Project2.xml
+C:\Users\victo\onedrive\documents\visual studio 2015\Projects\Project2\Project2\obj\Debug\Project2.vbprojResolveAssemblyReference.cache
+C:\Users\victo\onedrive\documents\visual studio 2015\Projects\Project2\Project2\obj\Debug\WindowsApplication1.MainForm.resources
+C:\Users\victo\onedrive\documents\visual studio 2015\Projects\Project2\Project2\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\victo\onedrive\documents\visual studio 2015\Projects\Project2\Project2\obj\Debug\Project2.vbproj.GenerateResource.Cache
+C:\Users\victo\onedrive\documents\visual studio 2015\Projects\Project2\Project2\obj\Debug\Project2.exe
+C:\Users\victo\onedrive\documents\visual studio 2015\Projects\Project2\Project2\obj\Debug\Project2.xml
+C:\Users\victo\onedrive\documents\visual studio 2015\Projects\Project2\Project2\obj\Debug\Project2.pdb
